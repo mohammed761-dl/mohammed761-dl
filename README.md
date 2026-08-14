@@ -89,29 +89,16 @@ email: "cherkaoui.mohammed.youssef@gmail.com"
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=mohammed761-dl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=FFFFFF" height="180" alt="Mohammed's GitHub statistics" />
+<img src="https://github-stats-extended.vercel.app/api?username=mohammed761-dl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=FFFFFF" height="180" alt="Mohammed's GitHub statistics" />
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed761-dl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="180" alt="Mohammed's most-used languages" />
-
-<br><br>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=mohammed761-dl&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=7B2FF7&fire=FFD700&currStreakLabel=00D4FF" width="80%" alt="Mohammed's GitHub contribution streak" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammed761-dl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="180" alt="Mohammed's most-used languages" />
 
 <br><br>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed761-dl&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=7B2FF7&point=FFD700" width="95%" alt="Mohammed's GitHub activity graph" />
 
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed761-dl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" />
 </div>
 
 ---
