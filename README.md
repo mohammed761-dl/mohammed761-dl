@@ -1,182 +1,144 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Cherkaoui;Software+Engineer;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing introduction" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:7B2FF7,100:00D4FF&height=220&section=header&text=Mohammed%20Cherkaoui&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Tangier%2C%20Morocco&descSize=18&descAlignY=64&animation=fadeIn" width="100%" alt="Mohammed Cherkaoui" />
 
-<!-- Banner Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FF7&height=200&section=header&text=MOHAMMED%20CHERKAOUI&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Mohammed Cherkaoui" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&height=40&lines=Building+thoughtful+software;Turning+complex+ideas+into+simple+tools;Currently+learning+Rust+%F0%9F%A6%80;Open+to+creative+open-source+collabs" alt="Typing intro" />
+</a>
 
-<br>
+<br/>
 
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=mohammed761-dl&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/mohammed761-dl?label=Followers&style=flat-square&color=7B2FF7" alt="Followers" />
-<img src="https://img.shields.io/github/stars/mohammed761-dl?label=Stars&style=flat-square&color=FFD700" alt="Stars" />
+<a href="https://www.linkedin.com/in/mohammed-cherkaoui-b37329222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:cherkaoui.mohammed.youssef@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=mohammed761-dl&label=Views&color=7B2FF7&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/mohammed761-dl?label=Followers&style=flat-square&color=00D4FF&labelColor=0D1117" alt="Followers" />
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 👋 About
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Software Engineer at Senselix Technologies** with a degree in Software Engineering from **ENSI**. I enjoy turning complex ideas into simple, useful software, preferably with good coffee nearby ☕
+
+- 🔭 Working on products at **Senselix Technologies**
+- 🌱 Learning **Rust**
+- 🤝 Looking to collaborate on **creative open-source projects**
+- 💬 Ask me about **software development, AI, and data analytics**
+
+</td>
+<td width="40%" valign="top">
 
 ```yaml
-name: "Mohammed Cherkaoui"
-location: "Tangier, Morocco"
-current_role: "Software Engineer"
-company: "Senselix Technologies"
-education: "Degree in Software Engineering, ENSI"
-email: "cherkaoui.mohammed.youssef@gmail.com"
+name:      Mohammed Cherkaoui
+role:      Software Engineer
+company:   Senselix Technologies
+location:  Tangier, Morocco
+education: Software Eng., ENSI
+focus:     [Web, AI, Cloud, DevOps]
+learning:  Rust
 ```
 
-> 🎯 **Mission:** *"Building thoughtful software and continuously learning along the way."*
+</td>
+</tr>
+</table>
 
-- 🔭 I'm currently working as a **Software Engineer at Senselix Technologies**
-- 🌱 I'm currently learning **Rust**
-- 👯 I'm looking to collaborate on **creative open-source projects**
-- 💬 Ask me about **software development, AI, or data analytics**
-- ⚡ Fun fact: **I enjoy turning complex ideas into simple, useful software—preferably with good coffee nearby.**
+> *"Building thoughtful software and continuously learning along the way."*
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,go,rust&theme=dark" alt="Languages" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,figma&theme=dark" alt="Frontend" />
+</td>
+</tr>
+<tr>
+<td><b>Backend & Data</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,redis&theme=dark" alt="Backend" />
+</td>
+</tr>
+<tr>
+<td><b>AI & Analytics</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv&theme=dark" alt="AI and Data" />
+</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana&theme=dark" alt="DevOps" />
+</td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="Tools" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+</td>
+</tr>
+</table>
 
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<br/>
 
-### Backend & Database
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### AI & Data Development
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
-
-### DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Azure_App_Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure App Service" />
-  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" alt="Azure Functions" />
-  <img src="https://img.shields.io/badge/Azure_Kubernetes_Service-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Azure Kubernetes Service" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-stats-extended.vercel.app/api?username=mohammed761-dl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=FFFFFF" height="180" alt="Mohammed's GitHub statistics" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=mohammed761-dl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=FFFFFF" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammed761-dl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top languages" />
 
-<!-- Most Used Languages -->
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammed761-dl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="180" alt="Mohammed's most-used languages" />
+<br/><br/>
 
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed761-dl&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=7B2FF7&point=FFD700" width="95%" alt="Mohammed's GitHub activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed761-dl&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=7B2FF7&point=FFD700" alt="Activity graph" />
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammed761-dl/mohammed761-dl/output/github-snake-dark.svg?v=1" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammed761-dl/mohammed761-dl/output/github-snake.svg?v=1" />
-    <img alt="Animated snake eating Mohammed's GitHub contributions" src="https://raw.githubusercontent.com/mohammed761-dl/mohammed761-dl/output/github-snake.svg?v=1" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mohammed761-dl/mohammed761-dl/output/github-snake.svg?v=1" />
   </picture>
 </div>
 
----
+<br/>
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/mohammed-cherkaoui-b37329222/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<!-- Email -->
-<a href="mailto:cherkaoui.mohammed.youssef@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-</div>
-
----
+## 🤝 Let's Connect
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00D4FF&height=120&section=footer" width="100%" />
+Have an idea, a question, or an open-source project that needs a hand?
 
-<br>
+<a href="https://www.linkedin.com/in/mohammed-cherkaoui-b37329222/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:cherkaoui.mohammed.youssef@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<br/><br/>
 
-*Made with ❤️ by [mohammed761-dl](https://github.com/mohammed761-dl)*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" alt="Dev quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00D4FF&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
